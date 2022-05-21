@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @WireStudios
+- 👀 I’m interested in video game development
+- 🌱 I’m currently learning Java and C#
